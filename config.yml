@@ -1,0 +1,30 @@
+# site title
+title: 'ss-panel-v3-mod_Uim 统计数据'
+
+# user name or organization name
+user: sspanelAnalytics
+
+# issue repository
+repository: data
+
+# multi-author
+authors: SukkaW
+
+# token
+# token should be separated by '#'
+# example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
+token: e#eb57781b4dd25c99689cde86fde7846bbd1ef9c
+
+# posts per page
+perpage: 10
+
+
+# advance config
+
+# organization repository (?)
+organization: false
+
+# post order
+# order by create time" or "update time"
+# 'UPDATED_AT' or 'CREATED_AT'
+order: 'UPDATED_AT'
